@@ -1,0 +1,2 @@
+language = "cpp"
+run = "make -C assign/hw6"

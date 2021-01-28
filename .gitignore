@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+misc
+*.solution
+.vscode
+*.o
